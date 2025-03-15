@@ -14,7 +14,3 @@ This repository contains all the code examples explained in my YouTube tutorials
 
 ## Video Link
 You can find the full explanations and tutorials on my YouTube channel: [Link to YouTube Channel](https://www.youtube.com/@mintson
-
-## License
-This repository is open source and available under the [MIT License](LICENSE).
-
