@@ -13,7 +13,7 @@ This repository contains all the code examples explained in my YouTube tutorials
 - Feel free to contribute by submitting pull requests or issues if you find any improvements or bugs!
 
 ## Video Link
-You can find the full explanations and tutorials on my YouTube channel: [Link to YouTube Channel](https://www.youtube.com/channel/your-channel-link)
+You can find the full explanations and tutorials on my YouTube channel: [Link to YouTube Channel](https://www.youtube.com/@mintson
 
 ## License
 This repository is open source and available under the [MIT License](LICENSE).
